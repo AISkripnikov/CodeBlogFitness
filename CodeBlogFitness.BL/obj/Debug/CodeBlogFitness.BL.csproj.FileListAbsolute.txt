@@ -1,0 +1,6 @@
+C:\Users\fanat\OneDrive\Рабочий стол\Fitness\CodeBlogFitness\CodeBlogFitness.BL\bin\Debug\CodeBlogFitness.BL.dll
+C:\Users\fanat\OneDrive\Рабочий стол\Fitness\CodeBlogFitness\CodeBlogFitness.BL\bin\Debug\CodeBlogFitness.BL.pdb
+C:\Users\fanat\OneDrive\Рабочий стол\Fitness\CodeBlogFitness\CodeBlogFitness.BL\obj\Debug\CodeBlogFitness.BL.csproj.AssemblyReference.cache
+C:\Users\fanat\OneDrive\Рабочий стол\Fitness\CodeBlogFitness\CodeBlogFitness.BL\obj\Debug\CodeBlogFitness.BL.csproj.CoreCompileInputs.cache
+C:\Users\fanat\OneDrive\Рабочий стол\Fitness\CodeBlogFitness\CodeBlogFitness.BL\obj\Debug\CodeBlogFitness.BL.dll
+C:\Users\fanat\OneDrive\Рабочий стол\Fitness\CodeBlogFitness\CodeBlogFitness.BL\obj\Debug\CodeBlogFitness.BL.pdb
